@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
