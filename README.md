@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0066-plus-one) |
+| [2058-concatenation-of-array](https://github.com/Vikashkrjsr15/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Vikashkrjsr15/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
