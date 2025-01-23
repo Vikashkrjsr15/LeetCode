@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0066-plus-one) |
+| [1580-shuffle-the-array](https://github.com/Vikashkrjsr15/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Vikashkrjsr15/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
