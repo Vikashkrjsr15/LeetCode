@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Vikashkrjsr15/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
